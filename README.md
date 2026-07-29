@@ -111,17 +111,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://ghstats.dev/api/card?username=CrypterENC&theme=midnight&border_radius=8" />
+      <img src="https://ghstats.dev/api/card?username=iiDOR&theme=midnight&border_radius=8" />
     </td>
     <td>
-      <img src="https://ghstats.dev/api/langs?username=CrypterENC&theme=midnight&border_radius=8&layout=vertical_list" />
+      <img src="https://ghstats.dev/api/langs?username=iiDOR&theme=midnight&border_radius=8&layout=vertical_list" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img width="100%" src="https://ghstats.dev/api/sparkline?username=CrypterENC&theme=midnight&days=10&width=316&height=82&border_radius=7" />
+<img width="100%" src="https://ghstats.dev/api/sparkline?username=iiDOR&theme=midnight&days=10&width=316&height=82&border_radius=7" />
 
 </div>
 
@@ -132,7 +132,7 @@
 <!-- ══════════════════════════ ACTIVITY GRAPH ══════════════════════════════ -->
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=CrypterENC&theme=tokyo-night&bg_color=0a0e1a&color=00FFD1&line=7B61FF&point=00FFD1&area=true&hide_border=true&area_color=00FFD1" alt="Activity Graph"/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=iiDOR&theme=tokyo-night&bg_color=0a0e1a&color=00FFD1&line=7B61FF&point=00FFD1&area=true&hide_border=true&area_color=00FFD1" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -142,9 +142,9 @@
 <!-- ═══════════════════════ CONTRIBUTION SNAKE ════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CrypterENC/CrypterENC/blob/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CrypterENC/CrypterENC/blob/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CrypterENC/CrypterENC/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iiDOR/iiDOR/blob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/iiDOR/iiDOR/blob/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iiDOR/iiDOR/output/pacman-contribution-graph.svg">
 </picture>
 
 <br/>
